@@ -1,4 +1,3 @@
-Of course! Here is a catchy and professional README file for the FoodDelivery repository, complete with emojis to make it visually engaging.
 
 ---
 
@@ -133,8 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 ## 🙏 Acknowledgments
-
-*   Icons provided by [Shields.io](https://shields.io)
 *   Inspiration from modern food delivery apps like Swiggy, Zomato, and Uber Eats.
 
 ---
